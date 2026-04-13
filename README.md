@@ -18,7 +18,7 @@ I'm an AI and Machine Learning Engineer specializing in agentic workflows, model
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Lahori02&show_icons=true&theme=radical" alt="Rohit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Lahori02&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit-Lahori02&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 📫 Connect with Me
