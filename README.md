@@ -15,12 +15,6 @@ I'm an AI and Machine Learning Engineer specializing in agentic workflows, model
 ## 🔬 Research & Publications
 * Published research on *Data Analysis and Insight Generation with Queryable Knowledge Graph* in Springer ICICBDA 2024, focusing on sentiment analysis and product intelligence extraction from social data.
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Lahori02&show_icons=true&theme=radical" alt="Rohit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit-Lahori02&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ## 📫 Connect with Me
 * **LinkedIn:** [Rohit Lahori](https://www.linkedin.com/in/rohit-lahori-a11ab9215/)
 * **Email:** rohitlahori12@gmail.com
